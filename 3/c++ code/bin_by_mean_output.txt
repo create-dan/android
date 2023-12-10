@@ -1,0 +1,10 @@
+3 Bins are:-
+Bin 1 (Below mean)
+Range:- (12-14.3333):- 12 13 14 
+
+Bin 2 (Around mean)
+Range:- (14.3333-16.6667):- 15 16 
+
+Bin 3 (Above mean)
+Range:- (16.6667-19):- 17 18 19 
+
